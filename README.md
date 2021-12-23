@@ -14,16 +14,16 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
 
 ## 2. Deep Learning-based Video Object Segmentation
 
-- [2.1 Automatic Video Object Segmentation (AVOS)]()
-  - [2.1.1 Deep Learning Module based]()
+- [2.1 Automatic Video Object Segmentation (AVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#21-automatic-video-object-segmentation-avos)
+  - [2.1.1 Deep Learning Module based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#211-deep-learning-module-based)
   - [2.1.2 Pixel Instance Embedding based]()
   - [2.1.3  Short-term Information Encoding]()
   - [2.1.4  Long-term Context Encoding]()
   - [2.1.5  Un-/Weakly-supervised based]()
   - [2.1.6  Instance-level AVOS]()
-- [2.2 Semi-automatic Video Object Segmentation (SVOS)]()
-- [2.3 Interactive Video Object Segmentation (IVOS)]()
-- [2.4 Language-guided Video Object Segmentation (LVOS)]()
+- [2.2 Semi-automatic Video Object Segmentation (SVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#22-semi-automatic-video-object-segmentation-svos)
+- [2.3 Interactive Video Object Segmentation (IVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#23-interactive-video-object-segmentation-ivos)
+- [2.4 Language-guided Video Object Segmentation (LVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#24-language-guided-video-object-segmentation-lvos)
 
 ## 3. Deep Learning-based Video Semantic Segmentation
 - [3.1 (Instance-agnostic)VideoSemanticSegmentation(VSS)]()
