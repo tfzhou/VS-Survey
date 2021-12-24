@@ -36,7 +36,7 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
   - [2.4.2 Capsule Routing-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#242-capsule-routing-based)
   - [2.4.3 Attention-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#243-attention-based)
 ## 3. Deep Learning-based Video Semantic Segmentation
-- [3.1 (Instance-agnostic)Video Semantic Segmentation (VSS)](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#31-instance-agnostic-video-semantic-segmentation-vss)
+- [3.1 (Instance-agnostic) Video Semantic Segmentation (VSS)](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#31-instance-agnostic-video-semantic-segmentation-vss)
   - [3.1.1 Efforts towards More Accurate Segmentation](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#311-efforts-toward-more-accurate-segmentation)
   - [3.1.2 Efforts towards Faster Segmentation](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#312-efforts-towards-faster-segmentation)
   - [3.1.3 Semi-/Weakly-supervised based](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#313-semi/weakly-supervised-based)
