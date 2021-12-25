@@ -12,8 +12,6 @@
 | 2017 |    ICCV     | [Primary video object segmentation via complementary cnns and neighborhood reversible flow](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Primary_Video_Object_ICCV_2017_paper.pdf) |                                                                 --                                                                  |
 | 2018 |     TIP     | [Video salient object detection via fully convolutional networks](https://arxiv.org/pdf/1702.00871.pdf)                                                                                                                             |                                                              [Code](https://github.com/wenguanwang/ViSalientObject)                                                               |
 
-
-
 #### 2.1.2 Pixel Instance Embedding based
 
 | Year | Publication | Paper Title                                                  | Project |
@@ -51,13 +49,12 @@
 | 2021 |    CVPR     | [Reciprocal transformations for unsupervised video object segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Ren_Reciprocal_Transformations_for_Unsupervised_Video_Object_Segmentation_CVPR_2021_paper.pdf)| [Code](https://github.com/OliverRensu/RTNet)|                         
 | 2021 |    TPAMI    | [Segmenting objects from relational visual data](https://ieeexplore.ieee.org/document/9551804/) | [Code](https://github.com/carrierlxk/AGNN) |
 
-
 #### 2.1.5 Un-/Weakly-supervised based
 | Year | Publication | Paper Title                                                  |                                                            Project                                                             |
 | ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
 | 2019 |    CVPR     | [Learning unsupervised video object segmentation through visual attention](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention_CVPR_2019_paper.pdf) |        [Code](https://github.com/wenguanwang/AGS)  |
 | 2019 |    CVPR     | [Unsupervised moving object detection via contextual information separation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Unsupervised_Moving_Object_Detection_via_Contextual_Information_Separation_CVPR_2019_paper.pdf) | [Code](https://github.com/antonilo/unsupervised_detection), [Project](http://rpg.ifi.uzh.ch/unsupervised_detection.html)|
-| 2020 |    ECCV     | [Learning video object segmentation from unlabeled videos](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)| [Code](https://github.com/carrierlxk/MuG) |
+| 2020 |    CVPR     | [Learning video object segmentation from unlabeled videos](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)| [Code](https://github.com/carrierlxk/MuG) |
 | 2021 |    CVPR     | [Dystab: Unsupervised object segmentation via dynamic-static bootstrapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_DyStaB_Unsupervised_Object_Segmentation_via_Dynamic-Static_Bootstrapping_CVPR_2021_paper.pdf)|[Code](https://github.com/blai88/dystab)|
 
 #### 2.1.6 Instance-level AVOS
@@ -74,16 +71,41 @@
 ### 2.2 Semi-automatic Video Object Segmentation (SVOS)
 
 #### 2.2.1 Online Fine-tuning based 
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
 
 #### 2.2.2 Propagation-based 
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
 
 #### 2.2.3 Matching-based 
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
 
 #### 2.2.4 Box-initialization based 
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
+| 2019 |    CVPR     | [Fast online object tracking and segmentation: A unifying approach](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fast_Online_Object_Tracking_and_Segmentation_A_Unifying_Approach_CVPR_2019_paper.pdf) |        [Code](https://github.com/foolwood/SiamMask), [Project](https://www.robots.ox.ac.uk/~qwang/SiamMask/)  |
+| 2020 |    CVPR     | [Fast template matching and update for video object tracking and segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Fast_Template_Matching_and_Update_for_Video_Object_Tracking_and_CVPR_2020_paper.pdf)| [Code](https://github.com/insomnia94/FTMU)|
+| 2021 |    AAAI     | [Query-memory reaggregation for weakly-supervised video object segmentation](https://www.aaai.org/AAAI21Papers/AAAI-3972.LinF.pdf)| --|
 
 #### 2.2.5  Un-/Weakly-supervised based
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
+| 2018 |    ECCV     | [Tracking emerges by colorizing videos](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.pdf) |        -- |
+| 2019 |    CVPR     | [Learning correspondence from the cycle-consistency of time](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Correspondence_From_the_Cycle-Consistency_of_Time_CVPR_2019_paper.pdf)|[Code](https://github.com/xiaolonw/TimeCycle), [Project](https://ajabri.github.io/timecycle/)| 
+| 2019 |    NeurIPS  | [Joint-task self-supervised learning for temporal correspondence](https://proceedings.neurips.cc/paper/2019/file/140f6969d5213fd0ece03148e62e461e-Paper.pdf)|[Code](https://github.com/Liusifei/UVC), [Project](https://sites.google.com/view/uvc2019/)|
+| 2020 |    CVPR     | [Mast: A memory-augmented selfsupervised tracker](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lai_MAST_A_Memory-Augmented_Self-Supervised_Tracker_CVPR_2020_paper.pdf)|[Code](https://github.com/zlai0/MAST)|
+| 2020 |    CVPR     | [Learning video object segmentation from unlabeled videos](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)| [Code](https://github.com/carrierlxk/MuG) |
+| 2020 |    NeurIPS  | [Space-time correspondence as a contrastive random walk](https://arxiv.org/pdf/2006.14613) |[Code](https://github.com/ajabri/videowalk), [Project](https://ajabri.github.io/videowalk/)|
 
 #### 2.2.6 Other Specific Methods
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
+| 2019 |    ICCV     | [Dmm-net: Differentiable mask-matching network for video object segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DMM-Net_Differentiable_Mask-Matching_Network_for_Video_Object_Segmentation_ICCV_2019_paper.pdf) |        [Code](https://github.com/ZENGXH/DMM_Net) |
+| 2019 |    CVPR     | [Bubblenets: Learning to select the guidance frame in video object segmentation by deep sorting frames](https://openaccess.thecvf.com/content_CVPR_2019/papers/Griffin_BubbleNets_Learning_to_Select_the_Guidance_Frame_in_Video_Object_CVPR_2019_paper.pdf)|[Code](https://github.com/griffbr/BubbleNets)|
+| 2020 |    NeurIPS  | [Delving into the cyclic mechanism in semi-supervised video object segmentation](https://proceedings.neurips.cc/paper/2020/file/0d5bd023a3ee11c7abca5b42a93c4866-Paper.pdf) | --|
+| 2021 |    CVPR     | [Learning dynamic network using a reuse gate function in semi-supervised video object segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Learning_Dynamic_Network_Using_a_Reuse_Gate_Function_in_Semi-Supervised_CVPR_2021_paper.pdf)| [Code](https://github.com/HYOJINPARK/Reuse_VOS)| 
 
 ### 2.3 Interactive Video Object Segmentation (IVOS)
 
