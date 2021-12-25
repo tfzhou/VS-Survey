@@ -61,8 +61,15 @@
 | 2021 |    CVPR     | [Dystab: Unsupervised object segmentation via dynamic-static bootstrapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_DyStaB_Unsupervised_Object_Segmentation_via_Dynamic-Static_Bootstrapping_CVPR_2021_paper.pdf)|[Code](https://github.com/blai88/dystab)|
 
 #### 2.1.6 Instance-level AVOS
-
-
+| Year | Publication | Paper Title                                                  |                                                            Project                                                             |
+| ---- | :---------: | ------------------------------------------------------------ |:------------------------------------------------------------------------------------------------------------------------------:|
+| 2019 |    CVPR     | [See more, know more: Unsupervised video object segmentation with co-attention siamese networks](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_See_More_Know_More_Unsupervised_Video_Object_Segmentation_With_Co-Attention_CVPR_2019_paper.pdf) |        [Code](https://github.com/carrierlxk/COSNet)  |
+| 2019 |    CVPR     | [Rvos: End-to-end recurrent network for video object segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ventura_RVOS_End-To-End_Recurrent_Network_for_Video_Object_Segmentation_CVPR_2019_paper.pdf) |        [Code](https://github.com/imatge-upc/rvos)，[Project](https://imatge-upc.github.io/rvos/)  |
+| 2019 |    ICCV     | [Zero-shot video object segmentation via attentive graph neural networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Zero-Shot_Video_Object_Segmentation_via_Attentive_Graph_Neural_Networks_ICCV_2019_paper.pdf) |                                           [Code](https://github.com/carrierlxk/AGNN)                                           |
+| 2020 |    TPAMI    | [Zero-Shot Video Object Segmentation with Co-Attention Siamese Networks](https://ieeexplore.ieee.org/abstract/document/9268466/) | [Code](https://github.com/carrierlxk/COSNet)|
+| 2020 |    WACV     | [Unovost: Unsupervised offline video object segmentation and tracking](https://openaccess.thecvf.com/content_WACV_2020/papers/Luiten_UnOVOST_Unsupervised_Offline_Video_Object_Segmentation_and_Tracking_WACV_2020_paper.pdf)| --|
+| 2021 |    CVPR     | [Target-aware object discovery and association for unsupervised video multi-object segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Target-Aware_Object_Discovery_and_Association_for_Unsupervised_Video_Multi-Object_Segmentation_CVPR_2021_paper.pdf)|--|
+| 2021 |    TPAMI    | [Paying attention to video object pattern understanding](https://ieeexplore.ieee.org/document/8957473)|[Code](https://github.com/wenguanwang/AGS)|
 
 ### 2.2 Semi-automatic Video Object Segmentation (SVOS)
 
