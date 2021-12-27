@@ -164,12 +164,54 @@
 
 #### 2.3.1 Interaction-propagation based 
 
+| Year | Publication | Paper Title                                                  |                           Project                            |
+| ---- | :---------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 2016 |    CVPR     | [Deep interactive object selection](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xu_Deep_Interactive_Object_CVPR_2016_paper.pdf) |                              --                              |
+| 2017 |    CVPR     | [One-shot video object segmentation](https://arxiv.org/pdf/1611.05198.pdf) |      [Code](https://github.com/kmaninis/OSVOS-PyTorch)       |
+| 2017 |    arXiv    | [Interactive video object segmentation in the wild](https://arxiv.org/pdf/1801.00269.pdf) |                              --                              |
+| 2019 |    CVPR     | [Fast user-guided video object segmentation by interaction-and-propagation networks](https://arxiv.org/pdf/1904.09791.pdf) |                              --                              |
+| 2020 |    CVPR     | [Memory aggregation networks for efficient interactive video object segmentation](https://arxiv.org/pdf/2003.13246.pdf) |      [Code](https://github.com/lightas/CVPR2020_MANet)       |
+| 2020 |    ECCV     | [Interactive video object segmentation using global and local transfer modules](https://arxiv.org/pdf/2007.08139.pdf) | [Code](https://github.com/yuk6heo/IVOS-ATNet), [Project](http://mcl.korea.ac.kr/yukheo_eccv2020/) |
+| 2021 |    CVPR     | [Guided interactive video object segmentation using reliability-based attention maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Heo_Guided_Interactive_Video_Object_Segmentation_Using_Reliability-Based_Attention_Maps_CVPR_2021_paper.pdf) |         [Code](https://github.com/yuk6heo/GIS-RAmap)         |
+| 2021 |    CVPR     | [Modular interactive video object segmentation: Interaction-to-mask, propagation and difference-aware fusion](https://arxiv.org/pdf/2103.07941.pdf) | [Code](https://github.com/hkchengrex/MiVOS), [Project](https://hkchengrex.github.io/MiVOS/) |
+
 #### 2.3.2 Other Methods
+
+| Year | Publication | Paper Title                                                  |                           Project                           |
+| ---- | :---------: | ------------------------------------------------------------ | :---------------------------------------------------------: |
+| 2018 |    CVPR     | [Blazingly fast video object segmentation with pixel-wise metric learning](https://arxiv.org/pdf/1804.03131.pdf) |         [Code](https://github.com/yuhuayc/fast-vos)         |
+| 2018 |    CVPR     | [Fast and accurate online video object segmentation via tracking parts](https://arxiv.org/pdf/1806.02323.pdf) |       [Code](https://github.com/JingchunCheng/FAVOS)        |
+| 2020 |    ECCV     | [Scribblebox: Interactive annotation framework for video object segmentation](https://arxiv.org/pdf/2008.09721.pdf) | [Project](http://www.cs.toronto.edu/~linghuan/scribblebox/) |
+| 2021 |    CVPR     | [Learning to recommend frame for interactive video object segmentation in the wild](https://arxiv.org/pdf/2103.10391.pdf) |         [Code](https://github.com/svip-lab/IVOS-W)          |
 
 ### 2.4 Language-guided Video Object Segmentation (LVOS)
 
 #### 2.4.1 Dynamic Convolution-based 
 
+| Year | Publication | Paper Title                                                  |                           Project                            |
+| ---- | :---------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 2017 |    CVPR     | [Tracking by natural language specification](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) |     [Project](https://github.com/QUVA-Lab/lang-tracker)      |
+| 2018 |    CVPR     | [Actor and action video segmentation from a sentence](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) | [Project](https://kgavrilyuk.github.io/publication/actor_action/) |
+| 2019 |    ICCV     | [Asymmetric cross-guided attention network for actor and action video segmentation from natural language query](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) |                              --                              |
+| 2020 |    AAAI     | [Context modulated dynamic networks for actor and action video segmentation with language queries](https://ojs.aaai.org/index.php/AAAI/article/view/6895/6749) |                              --                              |
+| 2020 |    IJCAI    | [Polar relative positional encoding for video-language segmentation](https://www.ijcai.org/proceedings/2020/0132.pdf) |                              --                              |
+
 #### 2.4.2 Capsule Routing-based 
 
+| Year | Publication | Paper Title                                                  |                           Project                            |
+| ---- | :---------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 2018 |    ICLR     | [Matrix capsules with em routing](https://openreview.net/pdf?id=HJWLfGWRb) | [Code](https://github.com/IBM/matrix-capsules-with-em-routing) |
+| 2020 |    CVPR     | [Visual-textual capsule routing for text-based video segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/McIntosh_Visual-Textual_Capsule_Routing_for_Text-Based_Video_Segmentation_CVPR_2020_paper.pdf) |                              --                              |
+
 #### 2.4.3 Attention-based 
+
+| Year | Publication | Paper Title                                                  |                       Project                       |
+| ---- | :---------: | ------------------------------------------------------------ | :-------------------------------------------------: |
+| 2018 |    ACCV     | [Video object segmentation with language referring expressions](https://arxiv.org/pdf/1803.08006.pdf) |                         --                          |
+| 2019 |    ICCV     | [Asymmetric cross-guided attention network for actor and action video segmentation from natural language query](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) |                         --                          |
+| 2020 |    ECCV     | [Urvos: Unified referring video object segmentation network with a large-scale benchmark](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | [Code](https://github.com/skynbe/Refer-Youtube-VOS) |
+| 2021 |    CVPR     | [Collaborative spatial-temporal modeling for language-queried video actor segmentation](https://arxiv.org/pdf/2105.06818.pdf) |                         --                          |
+| 2021 |    TPAMI    | [Referring segmentation in images and videos with cross-modal self-attention network](https://arxiv.org/pdf/2102.04762.pdf) |                         --                          |
+| 2021 |    TPAMI    | [Cross-modal progressive comprehension for referring segmentation](https://ieeexplore.ieee.org/document/9430750) |  [Code](https://github.com/spyflying/CMPC-Refseg)   |
+
+####  
