@@ -4,6 +4,12 @@
 > [Wenguan Wang](https://sites.google.com/view/wenguanwang), [Tianfei Zhou](https://www.tfzhou.com/), [Fatih Porikli](http://www.porikli.com/), [David Crandall](https://homes.luddy.indiana.edu/djcran/), and [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). <br>
 > [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2107.01153)
 
+## Contributing 
+
+Please feel free to create issues or pull requests to add papers.
+
+Welcome any discussions on video segmentation at [![Gitter](https://badges.gitter.im/tfzhou/vs-survey.svg)](https://gitter.im/tfzhou/vs-survey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## 1. Introduction
 Video segmentation, i.e., partitioning video frames into multiple segments or objects, plays a critical role in a broad range of practical applications, from enhancing visual effects in movie, to understanding scenes in autonomous driving, to virtual background creation in video conferencing. In this survey, we comprehensively review two basic lines of research — **video object segmentation** and **video semantic segmentation** — by introducing their respective task settings, background concepts, perceived need, development history, and main challenges. In particular, we review **eight** sub-fields as given in the following figure:
 
