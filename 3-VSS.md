@@ -38,5 +38,29 @@
 
 ### 3.2 Video Instance Segmentation (VIS)
 
+| Year | Publication | Paper Title                                                  |                           Project                            |
+| ---- | :---------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| 2019 |    arXiv    | [Learning a spatio-temporal embedding for video instance segmentation](https://arxiv.org/pdf/1912.08969.pdf) |                              --                              |
+| 2019 |    CVPR     | [Mots: Multi-object tracking and segmentation](abc)          |                           [Code]()                           |
+| 2019 |    ICCV     | [Video instance segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Video_Instance_Segmentation_ICCV_2019_paper.pdf) |     [Code](https://github.com/youtubevos/MaskTrackRCNN)      |
+| 2020 |    CVPR     | [Learning multi-object tracking and segmentation from automatic annotations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Porzi_Learning_Multi-Object_Tracking_and_Segmentation_From_Automatic_Annotations_CVPR_2020_paper.pdf) |                              --                              |
+| 2020 |    CVPR     | [Video instance segmentation tracking with a modified vae architecture](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Video_Instance_Segmentation_Tracking_With_a_Modified_VAE_Architecture_CVPR_2020_paper.pdf) |                              --                              |
+| 2020 |    CVPR     | [Classifying, segmenting, and tracking object instances in video with mask propagation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bertasius_Classifying_Segmenting_and_Tracking_Object_Instances_in_Video_with_Mask_CVPR_2020_paper.pdf) |                              --                              |
+| 2020 |    ECCV     | [Sipmask: Spatial information preservation for fast image and video instance segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590001.pdf) |        [Code](https://github.com/JialeCao001/SipMask)        |
+| 2020 |    ECCV     | [Stem-seg: Spatio-temporal embeddings for instance segmentation in videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560154.pdf) |         [Code](https://github.com/sabarim/STEm-Seg)          |
+| 2021 |    AAAI     | [Compfeat: Comprehensive feature aggregation for video instance segmentation](https://www.aaai.org/AAAI21Papers/AAAI-1143.FuY.pdf) | [Code](https://github.com/SHI-Labs/CompFeat-for-Video-Instance-Segmentation) |
+| 2021 |    CVPR     | [Track to detect and segment: An online multi-object tracker](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.pdf) | [Code](https://github.com/JialianW/TraDeS),[Project](https://jialianwu.com/projects/TraDeS.html) |
+| 2021 |    CVPR     | [Sg-net: Spatial granularity network for one-stage video instance segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_SG-Net_Spatial_Granularity_Network_for_One-Stage_Video_Instance_Segmentation_CVPR_2021_paper.pdf) |         [Code](https://github.com/goodproj13/SG-Net)         |
+| 2021 |    CVPR     | [End-to-end video instance segmentation with transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_End-to-End_Video_Instance_Segmentation_With_Transformers_CVPR_2021_paper.pdf) |          [Code](https://github.com/Epiphqny/VisTR)           |
+| 2021 |    CVPR     | [Weakly supervised instance segmentation for videos with temporal mask consistency](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Weakly_Supervised_Instance_Segmentation_for_Videos_With_Temporal_Mask_Consistency_CVPR_2021_paper.pdf) |                              --                              |
+| 2021 |    CVPR     | [Learning to track instances without video annotations](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Learning_to_Track_Instances_without_Video_Annotations_CVPR_2021_paper.pdf) | [Project](https://oasisyang.github.io/projects/semi-track/index.html) |
+| 2021 |    ICCV     | [Video instance segmentation with a propose-reduce paradigm](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Video_Instance_Segmentation_With_a_Propose-Reduce_Paradigm_ICCV_2021_paper.pdf) |   [Code](https://github.com/dvlab-research/ProposeReduce)    |
+
 ### 3.3 Video Panoptic Segmentation (VPS)
+
+| Year | Publication | Paper Title                                                  |                        Project                         |
+| ---- | :---------: | ------------------------------------------------------------ | :----------------------------------------------------: |
+| 2020 |    CVPR     | [Video panoptic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Video_Panoptic_Segmentation_CVPR_2020_paper.pdf) |                           --                           |
+| 2021 |    CVPR     | [Learning to associate every segment for video panoptic segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Woo_Learning_To_Associate_Every_Segment_for_Video_Panoptic_Segmentation_CVPR_2021_paper.pdf) |                           --                           |
+| 2021 |    CVPR     | [Vipdeeplab: Learning visual perception with depth-aware video panoptic segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiao_VIP-DeepLab_Learning_Visual_Perception_With_Depth-Aware_Video_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [Code](https://github.com/joe-siyuan-qiao/ViP-DeepLab) |
 
