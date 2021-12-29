@@ -23,8 +23,8 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
   - [2.1.6 Instance-level AVOS](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#216-instance-level-AVOS)
 - [2.2 Semi-automatic Video Object Segmentation (SVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#22-semi-automatic-video-object-segmentation-svos)
   - [2.2.1 Online Fine-tuning based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#221-online-fine-tuning-based)
-  - [2.2.2 Propagation-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#222-propagation-based)
-  - [2.2.3 Matching-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#223-matching-based)
+  - [2.2.2 Propagation based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#222-propagation-based)
+  - [2.2.3 Matching based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#223-matching-based)
   - [2.2.4 Box-initialization based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#224-box-initialization-based)
   - [2.2.5  Un-/Weakly-supervised based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#225-un-/weakly-supervised-based)
   - [2.2.6  Other Specific Methods](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#226-other-specific-methods)
@@ -32,9 +32,9 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
   - [2.3.1 Interaction-propagation based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#231-interaction-propagation-based)
   - [2.3.2 Other Methods](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#232-other-methods)
 - [2.4 Language-guided Video Object Segmentation (LVOS)](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#24-language-guided-video-object-segmentation-lvos)
-  - [2.4.1 Dynamic Convolution-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#241-dynamic-convolution-based)
-  - [2.4.2 Capsule Routing-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#242-capsule-routing-based)
-  - [2.4.3 Attention-based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#243-attention-based)
+  - [2.4.1 Dynamic Convolution based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#241-dynamic-convolution-based)
+  - [2.4.2 Capsule Routing based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#242-capsule-routing-based)
+  - [2.4.3 Attention based](https://github.com/tfzhou/VS-Survey/blob/main/2-VOS.md#243-attention-based)
 ## 3. Deep Learning-based Video Semantic Segmentation
 - [3.1 (Instance-agnostic) Video Semantic Segmentation (VSS)](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#31-instance-agnostic-video-semantic-segmentation-vss)
   - [3.1.1 Efforts towards More Accurate Segmentation](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#311-efforts-toward-more-accurate-segmentation)
@@ -44,8 +44,7 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
 - [3.3 Video Panoptic Segmentation (VPS)](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#33-video-panoptic-segmentation-vps)
 
 ## 4. Datasets
-
-Please refer to [this page](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md).
+- [Popular Datasets in VOS and VSS](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md)
 
 ![](dataset.png)
 
