@@ -44,10 +44,8 @@ Video segmentation, i.e., partitioning video frames into multiple segments or ob
 - [3.3 Video Panoptic Segmentation (VPS)](https://github.com/tfzhou/VS-Survey/blob/main/3-VSS.md#33-video-panoptic-segmentation-vps)
 
 ## 4. Datasets
-- [4.1 VOS Datasets](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md#41-VOS-Datasets)
-  - [4.1.1 AVOS/SVOS/IVOS Datasets](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md#411-AVOS-SVOS-IVOS-Datasets)
-  - [4.1.2 RVOS Datsets](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md#412-RVOS-Datasets)
-- [4.2 VSS Datasets](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md#42-VSS-Datasets)
+
+Please refer to [this page](https://github.com/tfzhou/VS-Survey/blob/main/4-Datasets.md).
 
 ![](dataset.png)
 
