@@ -55,6 +55,7 @@
 | 2021 |    CVPR     | [Weakly supervised instance segmentation for videos with temporal mask consistency](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Weakly_Supervised_Instance_Segmentation_for_Videos_With_Temporal_Mask_Consistency_CVPR_2021_paper.pdf) |                              --                              |
 | 2021 |    CVPR     | [Learning to track instances without video annotations](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Learning_to_Track_Instances_without_Video_Annotations_CVPR_2021_paper.pdf) | [Project](https://oasisyang.github.io/projects/semi-track/index.html) |
 | 2021 |    ICCV     | [Video instance segmentation with a propose-reduce paradigm](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Video_Instance_Segmentation_With_a_Propose-Reduce_Paradigm_ICCV_2021_paper.pdf) |   [Code](https://github.com/dvlab-research/ProposeReduce)    |
+| 2021 |    ICCV     | [Crossover learning for fast online video instance segmentation](https://arxiv.org/pdf/2104.05970.pdf) |          [Code](https://github.com/hustvl/CrossVIS)          |
 
 ### 3.3 Video Panoptic Segmentation (VPS)
 
