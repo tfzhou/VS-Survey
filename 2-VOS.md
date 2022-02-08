@@ -102,6 +102,7 @@
 | 2019 |    ICCV     | [Agss-vos: Attention guided single-shot video object segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_AGSS-VOS_Attention_Guided_Single-Shot_Video_Object_Segmentation_ICCV_2019_paper.pdf) |      [Code](https://github.com/dvlab-research/AGSS-VOS)      |
 | 2020 |    CVPR     | [State-aware tracker for real-time video object segmentation](https://arxiv.org/pdf/2003.00482.pdf) |   [Code](https://github.com/MegviiDetection/video_analyst)   |
 | 2020 |    CVPR     | [Fast video object segmentation with temporal aggregation network and dynamic template matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Fast_Video_Object_Segmentation_With_Temporal_Aggregation_Network_and_Dynamic_CVPR_2020_paper.pdf) |  [Project](https://xuhuaking.github.io/Fast-VOS-DTTM-TAN/)   |
+| 2022 |    AAAI     | [Reliable Propagation-Correction Modulation for Video Object Segmentation](https://arxiv.org/pdf/2112.02853.pdf) |  [Code](https://github.com/JerryX1110/RPCMVOS)   |
 
 #### 2.2.3 Matching-based 
 | Year | Publication | Paper Title                                                  |                           Project                            |
