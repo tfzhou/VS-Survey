@@ -8,8 +8,6 @@
 
 Please feel free to create issues or pull requests to add papers.
 
-Welcome any discussions on video segmentation at [![Gitter](https://badges.gitter.im/tfzhou/vs-survey.svg)](https://gitter.im/tfzhou/vs-survey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ## 1. Introduction
 Video segmentation, i.e., partitioning video frames into multiple segments or objects, plays a critical role in a broad range of practical applications, from enhancing visual effects in movie, to understanding scenes in autonomous driving, to virtual background creation in video conferencing. In this survey, we comprehensively review two basic lines of research — **video object segmentation** and **video semantic segmentation** — by introducing their respective task settings, background concepts, perceived need, development history, and main challenges. In particular, we review **eight** sub-fields as given in the following figure:
 
