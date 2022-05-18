@@ -152,6 +152,7 @@
 | 2020 |    CVPR     | [Mast: A memory-augmented selfsupervised tracker](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lai_MAST_A_Memory-Augmented_Self-Supervised_Tracker_CVPR_2020_paper.pdf)|[Code](https://github.com/zlai0/MAST)|
 | 2020 |    CVPR     | [Learning video object segmentation from unlabeled videos](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Learning_Video_Object_Segmentation_From_Unlabeled_Videos_CVPR_2020_paper.pdf)| [Code](https://github.com/carrierlxk/MuG) |
 | 2020 |    NeurIPS  | [Space-time correspondence as a contrastive random walk](https://arxiv.org/pdf/2006.14613) |[Code](https://github.com/ajabri/videowalk), [Project](https://ajabri.github.io/videowalk/)|
+| 2022 |    CVPR  | [Locality-Aware Inter-and Intra-Video Reconstruction for Self-Supervised Correspondence Learning](https://arxiv.org/abs/2203.14333) |[Code](https://github.com/0liliulei/LIIR), [Project](https://github.com/0liliulei/LIIR)|
 
 #### 2.2.6 Other Specific Methods
 | Year | Publication | Paper Title                                                  |                                                            Project                                                             |
