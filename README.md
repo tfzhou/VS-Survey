@@ -58,8 +58,8 @@ If you find our survey and repository useful for your research, please consider 
 ```bibtex
 @article{wang2021survey,
   title={A survey on deep learning technique for video segmentation},
-  author={Wang, Wenguan and Zhou, Tianfei and Porikli, Fatih and Crandall, David and Van Gool, Luc},
-  journal={arXiv preprint arXiv:2107.01153},
-  year={2021}
+  author={Zhou, Tianfei and Porikli, Fatih and Crandall, David and Van Gool, Luc and Wang, Wenguan},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023}
 }
 ```
