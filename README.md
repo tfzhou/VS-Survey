@@ -1,8 +1,8 @@
 # A Survey on Deep Learning Technique for Video Segmentation
 
 > [A Survey on Deep Learning Technique for Video Segmentation](https://arxiv.org/abs/2107.01153) <br>
-> [Wenguan Wang](https://sites.google.com/view/wenguanwang), [Tianfei Zhou](https://www.tfzhou.com/), [Fatih Porikli](http://www.porikli.com/), [David Crandall](https://homes.luddy.indiana.edu/djcran/), and [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ). <br>
-> [![paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2107.01153)
+> [Tianfei Zhou](https://www.tfzhou.com/), [Fatih Porikli](http://www.porikli.com/), [David Crandall](https://homes.luddy.indiana.edu/djcran/), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ), and [Wenguan Wang](https://sites.google.com/view/wenguanwang). <br>
+> IEEE T-PAMI, 2023
 
 ## Contributing 
 
