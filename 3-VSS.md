@@ -56,6 +56,7 @@
 | 2021 |    CVPR     | [Learning to track instances without video annotations](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Learning_to_Track_Instances_without_Video_Annotations_CVPR_2021_paper.pdf) | [Project](https://oasisyang.github.io/projects/semi-track/index.html) |
 | 2021 |    ICCV     | [Video instance segmentation with a propose-reduce paradigm](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Video_Instance_Segmentation_With_a_Propose-Reduce_Paradigm_ICCV_2021_paper.pdf) |   [Code](https://github.com/dvlab-research/ProposeReduce)    |
 | 2021 |    ICCV     | [Crossover learning for fast online video instance segmentation](https://arxiv.org/pdf/2104.05970.pdf) |          [Code](https://github.com/hustvl/CrossVIS)          |
+| 2022 |    PAMI     | [Video Instance Segmentation using Dynamic Network](https://arxiv.org/abs/2107.13155) |          [Code](https://github.com/lxtGH/TemporalPyramidRouting)          |
 
 ### 3.3 Video Panoptic Segmentation (VPS)
 
@@ -64,4 +65,6 @@
 | 2020 |    CVPR     | [Video panoptic segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Video_Panoptic_Segmentation_CVPR_2020_paper.pdf) |                           --                           |
 | 2021 |    CVPR     | [Learning to associate every segment for video panoptic segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Woo_Learning_To_Associate_Every_Segment_for_Video_Panoptic_Segmentation_CVPR_2021_paper.pdf) |                           --                           |
 | 2021 |    CVPR     | [Vipdeeplab: Learning visual perception with depth-aware video panoptic segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiao_VIP-DeepLab_Learning_Visual_Perception_With_Depth-Aware_Video_Panoptic_Segmentation_CVPR_2021_paper.pdf) | [Code](https://github.com/joe-siyuan-qiao/ViP-DeepLab) |
+| 2022 |    CVPR     | [Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation](https://arxiv.org/abs/2204.04656) | [Code](https://github.com/lxtGH/Video-K-Net) |
+
 
